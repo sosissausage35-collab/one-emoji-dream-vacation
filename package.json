@@ -1,0 +1,1 @@
+{"description":"One Emoji, One Dream Vacation — make.fun bounty entry. A deterministic selector that scores candidate emoji against the judging criteria and writes exactly one emoji to /output/entry.txt.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"one-emoji-dream-vacation","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
